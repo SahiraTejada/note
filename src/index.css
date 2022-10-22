@@ -1,11 +1,28 @@
-body { 
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&display=swap');
+* { 
   padding:0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Outfit', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
  
+}
+
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+  --black : #000;
+  --primary-blue: #2884FF;
+  --primary-gray:#D9D9D9;
+  --primary-lightgreen:#EFF3FD;
+  --primary-note-gray:#E9E7FD;
+  --primary-note-ligthdarkblue:#D5DEFF;
+  --primary-note-lightblue:#DBF6FD;
+  --primary-note-green:#C8F7DC;
+  --primary-note-orange:#FEE4CB;
+  --primary-note-pink:#FFD3E2;
+  --primary-lightblue:#4E98FB;
+
 }
 

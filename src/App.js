@@ -1,11 +1,11 @@
-
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import {Login,Home} from './views';
 
 function App() {
   return (
     <div className="App">
-     
-    Note app
+     <Home/>
     </div>
   );
 }

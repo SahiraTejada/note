@@ -1,0 +1,102 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    
+    padding-top: 20px;
+}
+
+.left {
+    left: 0;
+
+    
+}
+
+.right {
+    right: 0;
+   
+ 
+}
+
+img{
+        position: absolute;
+        width: 500px;
+        height: 400px;
+        left: 137px;
+        top: 90px;
+}
+
+.login{
+    
+    margin-left: 90px;
+}
+
+.input{
+    width: 430px;
+   
+}
+
+.shadow{
+    outline: 0px !important;
+    -webkit-appearance: none;
+    box-shadow: none !important;
+}
+
+
+.draw-line {
+    height: 4px;
+    background: #EFF3FD;
+}
+
+.line{
+    width: 300px;
+    margin-bottom: 90px;
+}
+
+.btn{
+    width: 150px;
+    background: #4E98FB;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+  
+   
+       
+}
+
+
+
+
+
+
+
+
+
+.container{
+   position: relative;
+   margin-top: 40px;
+
+}
+
+.or2{
+    color: gray;
+    font-weight: 400;
+    position: absolute;
+    top: -12px;
+    left: 205px;
+    background-color: white;
+    padding: 0px 10px;
+}
+
+.option-line2{
+    height: 1px;
+    background-color: lightgray;
+}
+
+
+
+
+
