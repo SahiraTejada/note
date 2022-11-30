@@ -1,0 +1,13 @@
+.nav-perfil{
+    background-color: var(--white);
+    width: 180px;
+    height: 42px;
+    border-radius: 87px;
+}
+
+.avatar{
+    width: 32px;
+    height: 32px;
+    background-color: blue;
+    border-radius: 50%;
+}

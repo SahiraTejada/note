@@ -1,0 +1,35 @@
+.sidebar{
+    width: 14rem;
+    background-color: var(--white) ;
+    height: 100vh;
+   
+}
+
+.item{
+    padding-left: 22px;
+}
+
+.Items{
+        font-size: 20px;
+        line-height: 30px;
+        padding: 12px 0px;
+
+
+       
+}
+
+.icon{
+    color: var(--primary-blue);
+    width: 22px;
+    height: 22px;
+}
+
+.icon-logo{
+color: var(--primary-blue);
+    width: 40px;
+    height: 40px;
+}
+
+.Items:hover {
+    background: rgba(40, 132, 255, 0.13);
+}

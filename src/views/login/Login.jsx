@@ -29,10 +29,15 @@ const Login =()=> {
     <div>
     
     <div className='split right'>
-        <div  className='position-absolute end-5 login'>
-        <h1>Login</h1>
-        <div className='line'>
+        <div  className='position-absolute  login'>
+        <div className='login-title mb-5 d-flex justify-content-center'>
+        <h1 className=''>Login</h1>
+        <hr className='hr-index'/>
+        {/*
+        <div className='line d-flex align-items-end'>
         <div class="draw-line"></div>
+        </div>*/}
+
         </div>
     <Form noValidate validated={validated} onSubmit={handleSubmit}>
       <Row className="mb-5">

@@ -52,7 +52,7 @@ img{
 
 .line{
     width: 300px;
-    margin-bottom: 90px;
+    margin-bottom: 70px;
 }
 
 .btn{
@@ -94,6 +94,10 @@ img{
 .option-line2{
     height: 1px;
     background-color: lightgray;
+}
+
+.login-title{
+    
 }
 
 

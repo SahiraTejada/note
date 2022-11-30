@@ -1,11 +1,12 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Login,Home} from './views';
+import {HomePage} from './views/index';
+import Login from './views/login/Login.jsx'
 
 function App() {
   return (
     <div className="App">
-     <Home/>
+     <Login/>
     </div>
   );
 }
